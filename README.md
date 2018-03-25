@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-# express-mongodb-node
+
+#### express-mongodb-node
 前后端分离实现增删改查
 
-# 阿门
 =======
-<<<<<<< HEAD
-# express-mongodb-node
-前后端分离实现增删改查
-=======
-# express-mongodb
+### express-mongodb
 
 > A Vue.js project
 
@@ -29,5 +24,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
->>>>>>> Version1.01
 >>>>>>> Version1.01
